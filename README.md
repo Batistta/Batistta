@@ -1,9 +1,10 @@
+
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Vitor%20Batista&fontSize=70&fontColor=DDDDDD&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=13&descAlign=50&descAlignY=50&textBg=false&color=CB2957"  />
 </div>
 
 ###
-<img align="right" height="196" src="https://media.giphy.com/media/5Zesu5VPNGJlm/giphy.gif" />
+<img width="320" height="180" alt="coding" src="https://github.com/user-attachments/assets/3727ec99-d727-4551-a3ec-d26c1620e98a" />
 
 ###
 <p align="left">- Estudante de Desenvolvimento de Sistemas na ETEC<br>- Foco em Back-end com Java, Spring Boot e SQL</p>
