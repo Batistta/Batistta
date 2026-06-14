@@ -3,7 +3,7 @@
 </div>
 
 ###
-<img align="right" height="196" src="https://github.com/Batistta/Batistta/blob/main/coding.gif?raw=true" />
+<img align="right" height="196" src="https://github.com/Batistta/Batistta/raw/main/coding.gif" />
 
 ###
 <p align="left">- Estudante de Desenvolvimento de Sistemas na ETEC<br>- Foco em Back-end com Java, Spring Boot e SQL</p>
