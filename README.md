@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <a href="vitorbatistadefreitas@gmail.com" target="_blank">
+  <a href="mailto:vitorbatistadefreitas25@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="www.linkedin.com/in/vitor-batista-21a9b5309" target="_blank">
