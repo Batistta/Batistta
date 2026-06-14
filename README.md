@@ -41,8 +41,8 @@
 
 ###
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Batistta/Batistta/stats-output/stats.svg" height="250" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Batistta/Batistta/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/Batistta/Batistta/stats-output/stats.svg" height="250" alt="stats graph" /><br/>
+  <img src="https://raw.githubusercontent.com/Batistta/Batistta/languages-output/languages.svg" height="150" alt="languages graph" />
 </div>
 
 ###
