@@ -4,7 +4,7 @@
 
 ###
 
-<img align="right" height="196" src="https://media.giphy.com/media/5Zesu5VPNGJlm/giphy.gif"  />
+<img align="right" height="196" src="https://media.giphy.com/media/5Zesu5VPNGJlm/giphy.gif" />
 
 ###
 
