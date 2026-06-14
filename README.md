@@ -4,7 +4,7 @@
 </div>
 
 ###
-<img width="320" height="180" alt="coding" src="https://github.com/user-attachments/assets/3727ec99-d727-4551-a3ec-d26c1620e98a" />
+<img align="right" height="196" alt="coding" src="https://github.com/user-attachments/assets/3727ec99-d727-4551-a3ec-d26c1620e98a" />
 
 ###
 <p align="left">- Estudante de Desenvolvimento de Sistemas na ETEC<br>- Foco em Back-end com Java, Spring Boot e SQL</p>
