@@ -4,7 +4,7 @@
 
 ###
 
-<img align="right" height="196" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODZtc3hkZGpzc3dyNzVmcWluYjZ6eWppOHFvbzU2dHNwaGFvd3Y5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5Zesu5VPNGJlm/giphy.gif"  />
+<img align="right" height="196" src="https://media.giphy.com/media/5Zesu5VPNGJlm/giphy.gif"  />
 
 ###
 
@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <a href="mailto:vitorbatistadefreitas25@gmail.com" target="_blank">
+  <a href="vitorbatistadefreitas@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="www.linkedin.com/in/vitor-batista-21a9b5309" target="_blank">
