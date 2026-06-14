@@ -3,7 +3,7 @@
 </div>
 
 ###
-<img align="right" height="196" src="https://media.tenor.com/vhIyMEaB4EsAAAAd/monkey-buisness.gif" />
+<img align="right" height="196" src="https://raw.githubusercontent.com/Batistta/Batistta/main/coding.gif" />
 
 ###
 <p align="left">- Estudante de Desenvolvimento de Sistemas na ETEC<br>- Foco em Back-end com Java, Spring Boot e SQL</p>
