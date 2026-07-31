@@ -9,15 +9,8 @@
 ###
 <p align="left">- Estudante de Desenvolvimento de Sistemas na ETEC<br>- Foco em Back-end com Java, Spring Boot e SQL</p>
 
-###
-<div align="center">
-  <a href="mailto:vitorbatistadefreitas@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/vitor-batista-21a9b5309" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
+
+
 
 ###
 <h3 align="left">Linguagens e Ferramentas</h3>
